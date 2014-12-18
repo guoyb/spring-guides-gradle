@@ -4,6 +4,16 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gs-device-detection" />
+        <option name="gradleHome" value="/Applications/gradle-1.12" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gs-device-detection" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/gs-rest-service" />
         <option name="gradleHome" value="/Applications/gradle-1.12" />
         <option name="modules">
