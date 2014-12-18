@@ -5,6 +5,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/gs-rest-service" />
+    <file type="web" url="file://$PROJECT_DIR$/gs-scheduling-tasks" />
   </component>
   <component name="IdProvider" IDEtalkID="2D95687F9E3F15B9561031B7B658F2FD" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
