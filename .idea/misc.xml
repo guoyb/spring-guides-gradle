@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/gs-consuming-rest" />
     <file type="web" url="file://$PROJECT_DIR$/gs-device-detection" />
     <file type="web" url="file://$PROJECT_DIR$/gs-rest-service" />
     <file type="web" url="file://$PROJECT_DIR$/gs-scheduling-tasks" />
